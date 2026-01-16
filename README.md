@@ -25,9 +25,8 @@ g++ main.cpp sqlite3.o -o train
 ## 🎥 Project Demo Video
 
 Due to file size limitations on GitHub, the demo video is hosted externally.
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/O5NWcLR2nBk)
 
-
-👉 **[Watch Project Demo Video](https://youtu.be/O5NWcLR2nBk)**
 
 *(YouTube – Unlisted / Google Drive link)*
 
